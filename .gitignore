@@ -12,3 +12,8 @@ wheels/
 # IDE and tool artifacts
 .idea/
 .playwright-mcp/
+.ipynb_checkpoints/
+
+# Data files
+data/
+
